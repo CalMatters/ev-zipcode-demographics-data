@@ -1,6 +1,6 @@
 # Data about CA EV car registrations and demographic data by ZIP code
 
-This data was used in a story published TK titled "[Who buys electric cars in California — and who doesn’t?](https://calmatters.org/)". The data set can be found in the file named `ev-zipcode-demographics.csv` and comes from 3 different sources:
+This data was used in a story published March 22, 2023 titled "[Who buys electric cars in California — and who doesn’t?]([https://calmatters.org/](https://calmatters.org/environment/2023/03/california-electric-cars-demographics/(opens in a new tab)))". The data set can be found in the file named `ev-zipcode-demographics.csv` and comes from 3 different sources:
 
 * 2021 light-duty vehicle population from DMV via the [California Energy Commission](https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data)
 
